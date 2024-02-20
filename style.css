@@ -1,7 +1,19 @@
 body{
-    background-color: aqua;
+    background-color: antiquewhite;
+}
+.page-heading{
+    text-align: center;
+    border: 10px solid coral;
 }
 
 button{
     background-color: yellow;
+    padding: 10px;
+    height: auto;
+    width: auto;
+    border-style: dotted;
+    border-color: cadetblue;
+    margin: 10px;
+    font-style: oblique;
+    font-size: medium;   
 }
